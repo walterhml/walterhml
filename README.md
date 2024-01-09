@@ -1,11 +1,10 @@
-👋 Olá, eu sou @walterhml
+# Hi, I'm Walter! :D
 
-👀 Me interesso por diversos temas como tecnologia, inteligência artificial, programação e desenvolvimento pessoal. Adoro explorar novas ideias e me manter atualizado com as últimas tendências nesses campos.
+[![Github Badge](https://walterhml.github.io/CV_progamador/)
+[![Linkedin Badge](https://www.linkedin.com/in/walter-souza-5753aa209/)
 
-🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em processamento de linguagem natural, aprendizado de máquina e análise de dados. Acredito no aprendizado contínuo e gosto de me desafiar para adquirir novos conhecimentos e habilidades.
+### About me
+I'm a {backend, frontend and mobile} developer and technical.
 
-💞️ Procuro colaborar em projetos empolgantes que envolvam tecnologias de ponta e tenham um impacto positivo na sociedade. Se você tiver alguma oportunidade ou ideia, sinta-se à vontade para entrar em contato!
-
-📫 Como chegar até mim: Você pode se conectar comigo através do e-mail [walthersouza144@gmail.com]. Também estou ativo no LinkedIn, então você pode me encontrar em [https://www.linkedin.com/in/walter-souza-da-silva-5753aa209/]. Não hesite em entrar em contato se tiver alguma dúvida, colaboração ou apenas quiser bater um papo!
-
-Ansioso para conectar e colaborar com outros entusiastas e profissionais no emocionante mundo da tecnologia!
+- [Courses](Informatica para Internet) 👨🏼‍🏫 - Technical course in IT for the Internet, being Full-Stack. 
+- [Portfolio](https://walterhml.github.io/CV_progamador/) ✍🏼 - check out my latest portfolio made with html, css and javascript.
