@@ -9,58 +9,58 @@ tudo abaixo estudo e já tenho a base teorica.
 
 Linguagens de Programação:
 
-Python |
-JavaScript |
-Java |
-C++ |
-Ruby |
-PHP
+Python <br>
+JavaScript <br>
+Java <br>
+C++ <br>
+Ruby <br>
+PHP<br>
 
-Frameworks e Bibliotecas:
-React |
-Angular |
-Vue.js |
-Node.js |
-Django |
-Ruby on Rails |
+Frameworks e Bibliotecas:<br>
+React |<br>
+Angular |<br>
+Vue.js |<br>
+Node.js |<br>
+Django |<br>
+Ruby on Rails |<br>
 
-Bancos de Dados:
-MySQL |
-PostgreSQL |
-MongoDB |
-Redis |
-
-
-Controle de Versão:
-Git |
-GitHub |
-Bitbucket |
-
-Desenvolvimento Web:
-HTML5 |
-CSS3 |
-Sass |
-Bootstrap |
-WordPress |
-
-IDEs e Editores de Código:
-Visual Studio Code |
-IntelliJ IDEA |
-PyCharm |
-Eclipse |
-Sublime Text |
-
-Testes e Depuração:
-Jest |
-Selenium |
-JUnit |
-PyTest |
-Postman |
+Bancos de Dados:<br>
+MySQL |<br>
+PostgreSQL |<br>
+MongoDB |<br>
+Redis |<br>
 
 
-Gerenciamento de Projetos:
-Agile
-Scrum
-Kanban
-Jira
-Trello
+Controle de Versão:<br>
+Git |<br>
+GitHub |<br>
+Bitbucket |<br>
+
+Desenvolvimento Web:<br>
+HTML5 |<br>
+CSS3 |<br>
+Sass |<br>
+Bootstrap |<br>
+WordPress |<br>
+
+IDEs e Editores de Código:<br>
+Visual Studio Code |<br>
+IntelliJ IDEA |<br>
+PyCharm |<br>
+Eclipse |<br>
+Sublime Text |<br>
+
+Testes e Depuração:<br>
+Jest |<br>
+Selenium |<br>
+JUnit |<br>
+PyTest |<br>
+Postman |<br>
+
+
+Gerenciamento de Projetos:<br>
+Agile<br>
+Scrum<br>
+Kanban<br>
+Jira<br>
+Trello<br>
