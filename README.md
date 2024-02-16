@@ -8,6 +8,7 @@ Olá me chamo Walter e estou caminhando para se tornar um desenvolvedor Full-Sta
 tudo abaixo estudo e já tenho a base teorica.
 
 Linguagens de Programação:
+
 Python |
 JavaScript |
 Java |
