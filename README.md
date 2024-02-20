@@ -25,6 +25,7 @@ Django |<br>
 Ruby on Rails |<br>
 
 ## Bancos de Dados:<br>
+## Linguagem SQL
 MySQL |<br>
 PostgreSQL |<br>
 MongoDB |<br>
