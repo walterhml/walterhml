@@ -12,7 +12,7 @@ tudo abaixo estudo e já tenho a base teorica.
 Python <br>
 JavaScript <br>
 Java <br>
-C++ <br>
+C# <br>
 Ruby <br>
 PHP<br>
 
