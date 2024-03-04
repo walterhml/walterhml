@@ -18,8 +18,6 @@ PHP<br>
 
 ## Frameworks e Bibliotecas:<br>
 React |<br>
-Angular |<br>
-Vue.js |<br>
 Node.js |<br>
 Django |<br>
 Ruby on Rails |<br>
