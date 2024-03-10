@@ -21,9 +21,9 @@ Django<br>
 Laravel
 
 ## Bancos de Dados:<br>
-**Linguagem SQL**
-MySQL |<br>
-PostgreSQL |<br>
+**Linguagem SQL**<br>
+MySQL <br>
+PostgreSQL<br>
 
 ## Controle de Versão:<br>
 Git<br>
@@ -37,13 +37,6 @@ CSS3 |<br>
 Sass |<br>
 Bootstrap |<br>
 WordPress |<br>
-
-##  IDEs e Editores de Código:<br>
-Visual Studio Code |s<br>
-IntelliJ IDEA |<br>
-PyCharm |<br>
-Eclipse |<br>
-Sublime Text |<br>
 
 ## Testes e Depuração:<br>
 Jest |<br>
