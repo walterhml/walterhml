@@ -2,28 +2,21 @@
 ### Sobre mim
 Olá me chamo Walter e estou caminhando para se tornar um desenvolvedor Full-Stack, para trazer soluções com as minhas habilidades e lógica de programação avançada, tenho como foco o Back-end o principal lado que quero atuar, mas também me orgulho de ser Front-End, e garanto que também consigo desenvolver de uma maneira muito eficiente. gosto e tenho uma ampla visão de qualidade de software, e venho também estudando tudo sobre a área QA. tento sempre estar a frente do mercado, conhecendo novas linguagens, ferramentas e tudo que possa me ajudar a ser um bom progamador.
 
-# Linguagens de Programação
-- Python
-- JavaScript
-- Java
-- C#
-- PHP
+# Linguagens de Programação                    # Frameworks e Bibliotecas
+- Python                                         - Laravel, ReactJs
+- JavaScript                                     - Node.js
+- Java                                           - Django
+- C#                                             - ASP.NET CORE
+- PHP                                            - Pyautogui
+- ASP.NET                                        - Flask
 
-# Frameworks e Bibliotecas
-- Laravel, ReactJs
-- Node.js
-- Django
-- ASP.NET
-- Pyautogui
-- Flask
+# Desenvolvimento de APIs                      # Servidores, aplicativos e sistemas Opr.
+- RESTful                                        - Xamp
+- GraphQL                                        - Apache
+                                                 - Windows
+                                                 - Linux
 
-# Desenvolvimento de APIs
-- RESTful
-- GraphQL
 
-# Servidores e Aplicativos
-- Xamp
-- Apache
 
 # Bancos de Dados
 - SQL
