@@ -25,12 +25,13 @@ Domain with OOP and Problem Solving <br>
 # Desenvolvimento de APIs
 - RESTful
 - GraphQL
-- 
+
 # Servidores, aplicativos e sistemas Opr.                                          
 - Xamp
 - Apache
 - Windows
-
+- Linux
+  
 # Bancos de Dados
 - SQL
 - MySQL
