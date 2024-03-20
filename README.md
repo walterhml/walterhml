@@ -14,9 +14,13 @@ Domain with OOP and Problem Solving <br>
 - ASP.NET  
 
  # Frameworks e Bibliotecas
-- Laravel, PHPunit
-- ReactJs, Node.js
-- Django, Pyautogui, Flesk
+- Laravel,
+- PHPunit
+- ReactJs,
+- Node.js
+- Django,
+- Pyautogui
+- Flesk
 - ASP.NET CORE
 
 # Desenvolvimento de APIs
