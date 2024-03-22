@@ -1,6 +1,6 @@
 # Walter Souza
 ### Sobre mim
-Backend programmer for love
+Backend programmer for love <br>
 Technical English and reading <br>
 Working on projects with PHP and Back-End development <br>
 Studying Full-Stack! <br>
