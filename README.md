@@ -4,7 +4,7 @@ Backend programmer for love <br>
 Technical English and reading <br>
 Working on projects with PHP and Back-End development <br>
 Studying Full-Stack! <br>
-Domain with OOP and Problem Solving <br>
+Mastery in solving problems with web searches <br>
 
 # Linguagens de Programação                   
 - Python                                       
