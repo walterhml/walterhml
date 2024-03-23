@@ -9,7 +9,7 @@ Working on projects with PHP and Back-End development <br>
 Studying Full-Stack! <br>
 Mastery in solving problems with web searches <br>
 
-# Linguagens de Programação                   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=San+fransisco&pause=1000&color=0013F7&random=false&width=435&lines=%23+Programming+languages)](https://git.io/typing-svg)                 
 - Python                                       
 - JavaScript                                    
 - Java                                   
