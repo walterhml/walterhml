@@ -9,7 +9,7 @@ Working on projects with PHP and Back-End development <br>
 Studying Full-Stack! <br>
 Mastery in solving problems with web searches <br>
 
-# # Linguagens de Programação               
+# Linguagens de Programação               
 - Python                                     
 - JavaScript                                    
 - Java                                   
