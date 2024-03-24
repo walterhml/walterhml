@@ -24,8 +24,8 @@ Mastery in solving problems with web searches <br>
 - Node.js
 - Django,
 - Pyautogui
-- Flesk
 - ASP.NET CORE
+- Cypress
 
 # Desenvolvimento de APIs
 - RESTful
