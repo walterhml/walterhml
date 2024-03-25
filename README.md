@@ -80,3 +80,4 @@ Mastery in solving problems with web searches <br>
 - Cloud Computing (AWS, Azure, Google Cloud)
 - Microservices
 - Containerização (Docker, Kubernetes)
+- CI/CD
