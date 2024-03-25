@@ -23,9 +23,7 @@ Mastery in solving problems with web searches <br>
 - ReactJs,
 - Node.js
 - Django,
-- Pyautogui
 - ASP.NET CORE
-- Cypress
 
 # Desenvolvimento de APIs
 - RESTful
@@ -53,8 +51,13 @@ Mastery in solving problems with web searches <br>
 - Testes Unitários
 - Integração Contínua
 - Testes de Desempenho
+- End 2 End
 - Selenium
 - Postman
+- Cypress
+- PyautoGui
+- Pytest
+- PHPunit
 
 # Metodologias Ágeis e Gerenciamento de Tarefas
 - Agile
