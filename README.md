@@ -14,7 +14,7 @@ Mastery in solving problems with web searches <br>
 - JavaScript                                                                      
 - C#                                 
 - PHP
-- 
+  
  # Frameworks e Bibliotecas
 - Laravel
 - PHPunit
