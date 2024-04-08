@@ -11,19 +11,19 @@ Mastery in solving problems with web searches <br>
 
 # Linguagens de Programação               
 - Python                                     
-- JavaScript                                    
-- Java                                   
+- JavaScript                                                                      
 - C#                                 
-- PHP                     
-- ASP.NET  
-
+- PHP
+- 
  # Frameworks e Bibliotecas
-- Laravel,
+- Laravel
 - PHPunit
-- ReactJs,
+- ReactJs
 - Node.js
-- Django,
+- Django
 - ASP.NET CORE
+- PyautoGui
+- Pytest
 
 # Desenvolvimento de APIs
 - RESTful
@@ -45,7 +45,7 @@ Mastery in solving problems with web searches <br>
 - GIT
 - GitHub
 - GitLab
-- Bitbucket
+- BitBucket
 
 # Testes e Qualidade de Software
 - Testes Unitários
@@ -55,9 +55,6 @@ Mastery in solving problems with web searches <br>
 - Selenium
 - Postman
 - Cypress
-- PyautoGui
-- Pytest
-- PHPunit
 
 # Metodologias Ágeis e Gerenciamento de Tarefas
 - Agile
@@ -69,6 +66,8 @@ Mastery in solving problems with web searches <br>
 # Desenvolvimento Web
 - HTML5
 - CSS3
+- Figma
+- ADOBE XD
 - Sass
 - Bootstrap
 - WordPress
