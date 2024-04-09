@@ -18,7 +18,6 @@ More than 5 years of experience in troubleshooting following web searches <br>
  # Frameworks e Bibliotecas
 - Laravel
 - PHPunit
-- ReactJs
 - Node.js
 - Django
 - ASP.NET CORE
